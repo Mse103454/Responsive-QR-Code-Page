@@ -1,0 +1,11 @@
+* {margin: 0; padding: 0; box-sizing: border-box;}
+
+body {background-color: #d5e1ef; font-family: "Outfit", sans-serif; display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0;}
+
+.qr_box{width: 320px; background-color: white; border-radius: 20px; box-shadow: 0px 0px 10px 10px #d1ddeb; padding: 20px; text-align: center;}
+
+.qr_photo{ width: 100%; border-radius: 10px;}
+
+.qr_script1{font-weight: 700; font-size: 22px; color: #233040; margin: 20px 0 10px;}
+
+.qr_script2{font-weight: 400;  font-size: 16px; color: #858688; margin: 0 0 20px; margin-top: 7%;}
